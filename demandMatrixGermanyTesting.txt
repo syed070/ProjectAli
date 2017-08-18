@@ -1,0 +1,7 @@
+Bremen	Nuernberg	2	SC1
+Wuerzburg	Nuernberg	3	SC1
+Bremen	Wuerzburg	5	SC1
+Nuernberg	Wuerzburg	3	SC1
+Nuernberg	Bremen	2	SC1
+Bremen	Nuernberg	5	SC1
+Bremen	Nuernberg	3	SC1
